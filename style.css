@@ -1,0 +1,136 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+}
+ul li {
+    list-style: none;
+}
+.topbar{
+    background-color: #316cc3;
+    padding: 10px;
+    color: white;
+}
+.topbar i{
+    margin: 0 8px;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.show-in-inline{
+    display: inline-block;
+}
+/* a{
+    color: white;
+} */
+.social
+{
+    float: left;
+}
+.moto{
+    float: left;
+    margin-left: 100px;
+}
+.head-button
+{
+    float: right;
+
+}
+.clear
+{
+    clear: both;
+}
+.head-button a{
+    width: auto;
+    background-color: white;
+    color: #a7bf8b;
+    padding: 5px 15px;
+    text-align: center;
+    font-size: 13px;
+}
+.header{
+    background-color: #f7f8fa;
+}
+.logo{
+    float: left;
+}
+.menu{
+    float: right;
+    margin-top: 25px;
+}
+.logo img{
+    width: 220px;
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+    padding: 5px 15px;
+    color: black;
+    font-size: 15px;
+}
+.menu ul li a:hover {
+    background-color:#316cc3 ;
+    color: white;
+    border-radius: 25px;
+}
+.separator{
+    width: 70px;
+    height: 3px;
+    background-color: #427900;
+    display: block;
+}
+.project marquee{
+    height: 200px;
+}
+.slider marquee{
+    background-color:#316cc3 ;
+    color: white;
+}
+
+.second-color{
+    color:#427900 ;
+}
+.title-color{
+    text-align: center;
+    margin: 20px 0;
+    background-color:#f7f8fa;
+    padding: 20px;
+    color:#316cc3 
+}
+.img-color{
+    text-align: center;
+    margin: 20px 0;
+    background-color:#f7f8fa;
+    padding: 20px;
+    color:#316cc3
+}
+.intro-color{
+    text-align: center;
+    margin: 20px 0;
+    background-color:#f7f8fa;
+    padding: 20px;
+    color:#316cc3
+}
+.img-width{
+    width: 200px;
+    display: inline inline-block;
+}
+/* .gotobtn{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background-color: #316cc3;
+    bottom: 40px;
+    color: white;
+    right: 50px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    
+    font-size: 22px;
+} */
